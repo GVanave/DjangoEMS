@@ -1,4 +1,4 @@
-# Company Employee Management System(EMS) using django REST Framework
+# DjangoEMS: Company Employee Management System(EMS) using django REST Framework
 
 Company EMS is the basic example using django and django REST framework. 
 
